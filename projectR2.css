@@ -1,0 +1,20 @@
+button{
+    background-color:mediumturquoise;
+    border-radius: 6px;
+    color: white;
+    height: 40px;
+    width: 138px;
+    border-width: 0px;
+    font-weight: bold;
+}
+.container{
+    background-color: rgb(226, 231, 236);
+    color: black;
+    padding: 26px;
+    border-radius: 12px;
+    margin: 40px;
+    font-style: italic;
+}
+.timeStyle{
+    color: navy;
+}
